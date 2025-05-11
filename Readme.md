@@ -1,4 +1,4 @@
-# Todo API Project
+# CRUD API Project
 
 This project is a simple API for managing users, built with Go and PostgreSQL. It can be run in two environments: using Docker containers or a local environment. Both options have their own setup instructions, depending on your preference.
 
